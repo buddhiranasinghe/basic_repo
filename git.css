@@ -1,0 +1,132 @@
+#mycontainer {
+	background-color: #f9f9f9;
+
+}
+
+#name_container {
+	display: flex;
+	align-items: center;
+}
+
+#name_container h1 {
+	font-family: fantasy;
+    margin-left: 20px;
+}
+
+#name_container h3 {
+	font-family: sans-serif;
+	margin-left: 700px;
+}
+
+#top_container {
+	display: flex;
+	background-color: #350202;
+}
+
+#image_container {
+	width: 550px;
+	height: 290px;
+	border: 5px solid silver;
+	background-color: white;
+	margin: 25px;
+}
+
+#image_container img {
+	width: 550px;
+	height: 290px;
+}
+
+#summary_container {
+	width: 600px;
+	height: 300px;
+	background-color: white;
+	margin: 25px;
+}
+
+#summary_container h3 {
+	color: white;
+	font-family: sans-serif;
+	margin-left: 10px;
+}
+
+#summary_top {
+	background-color: silver;
+	align-items: center;
+	padding: 5px;
+}
+
+#summary_bottom {
+	color: black;
+	background: white;
+	padding: 10px;
+	font-family: sans-serif;
+}
+
+#middle_container {
+	background-color: #350202;
+	display: flex;
+}
+
+.content {
+	width: 381px;
+	height: 750px;
+	background-color: white;
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+
+.content_top {
+	height: 500px;
+}
+
+.content h3 {
+	color: white;
+	font-family: sans-serif;
+	margin-top: 0px;
+	background-color: silver;
+	padding: 10px;
+}
+
+.summery_pic {
+	width: 380px;
+    height: 160px;
+}
+
+.content p {
+    background: white;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+.logo {
+	width: 50px;
+	height: 50px;
+	padding: 7px;
+}
+
+.mybutton {
+	background: green;
+    text-decoration: none;
+    color: white;
+    padding: 4px;
+    border-radius: 5px;
+    margin: 131px;
+}
+
+#bottom_container p {
+	margin: auto;
+	width: 260px;
+}
+
+#botttom_logo_container {
+	display: flex;
+	align-items: center;
+	margin: auto;
+	width: 400px;
+}
+
+.bottom_logo {
+	width: 20px;
+	height: 20px;
+	padding: 5px;
+}
